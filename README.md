@@ -46,6 +46,7 @@ This project applies deep learning to detect and classify human bone fractures u
 These results highlight strong localization performance with room for improvement in classification accuracy, which may benefit from more advanced architectures or augmentation strategies.   
 
 ## 📌 Key Takeaways  
+- Dataset size too small to classify between 10 classes.
 - Built with a **raw CNN implementation** without using prebuilt architectures.  
 - Demonstrates that deep learning can detect and localize fractures in medical X-rays.  
 - Localization is reliable, while classification remains a challenging task.  
