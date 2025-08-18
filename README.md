@@ -58,3 +58,4 @@ Below is an example visualization where the model detects and localizes fracture
 - Demonstrates that deep learning can detect and localize fractures in medical X-rays.  
 - Localization is reliable, while classification remains a challenging task.  
 - Provides a strong baseline for further improvements using transfer learning or larger datasets.  
+- Using MobileNetV2 or ultralytics will give best results
